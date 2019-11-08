@@ -1,5 +1,5 @@
-# flutter_test_app
-
+# BMI calculator 
+Body Mass Index calculator
 A new Flutter project.
 
 ## Getting Started
