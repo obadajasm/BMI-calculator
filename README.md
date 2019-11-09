@@ -2,7 +2,7 @@
 Body Mass Index calculator
 A new Flutter project.
 
- (https://media.giphy.com/media/gfqJgDyI8iBDgazjFv/giphy.gif)
+[Demo](https://media.giphy.com/media/gfqJgDyI8iBDgazjFv/giphy.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
