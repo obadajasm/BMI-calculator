@@ -2,8 +2,10 @@
 Body Mass Index calculator
 A new Flutter project.
 
-[Demo](https://media.giphy.com/media/gfqJgDyI8iBDgazjFv/giphy.gif)
-## Getting Started
+<img src="https://media.giphy.com/media/gfqJgDyI8iBDgazjFv/giphy.gif"  />
+
+
+# Getting Started
 
 This project is a starting point for a Flutter application.
 
